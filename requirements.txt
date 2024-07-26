@@ -1,0 +1,9 @@
+boto3
+fitz
+pillow
+beautifulsoup4
+requests
+html2text
+chardet
+charset-normalizer
+pymupdf
