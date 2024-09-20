@@ -22,7 +22,7 @@ The Synthetic Document Generator is a Python script that converts PDF documents 
 
 2. PII Audit: The tool includes a PII audit feature that uses Amazon Comprehend to scan the generated synthetic documents for any detected PII. This can help identify and remove sensitive information. However, you should review the audit results carefully and ensure no PII is inadvertently included before sharing the documents.
 
-3. Compliance: Customers should be aware of any industry-specific regulations or data privacy laws that may apply to the data they are working with, such as PCI-DSS or HIPAA. The use of this tool must align with the customer's own compliance requirements.
+3. Compliance: you should be aware of any industry-specific regulations or data privacy laws that may apply to the data they are working with, such as PCI-DSS or HIPAA. The use of this tool must align with the your compliance requirements.
 
 4. Consult with all internal company security guidelines and policies.
 
