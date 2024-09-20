@@ -1,4 +1,4 @@
-# PoC Accelerator Synthetic Document Generator
+# PoC Synthetic Document Generator
 
 The Synthetic Document Generator is a Python script that converts PDF documents into synthetic HTML or Markdown formats while preserving the structure and formatting of the original documents. It utilizes the Anthropic Bedrock Converse API, PyMuPDF, and Beautiful Soup libraries. Utilizing Amazon Comprehend's PII Detection, it performs a PII audit scan on the generated synthetic document to identify any personally identifiable information (PII) and saves the results to a reviewable audit file.
 
